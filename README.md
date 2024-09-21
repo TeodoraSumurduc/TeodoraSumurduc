@@ -21,7 +21,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
+- 🛢  &nbsp; 
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL%2B%2B&logoColor=00599C)
   ![PLSQL](https://img.shields.io/badge/-PLSQL-333333?style=flat&logo=PLSQL%2B%2B&logoColor=00599C)
 - ⚙️ &nbsp;
