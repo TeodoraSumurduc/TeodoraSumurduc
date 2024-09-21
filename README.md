@@ -35,13 +35,15 @@
   ![SAP BO](https://img.shields.io/badge/-SAP-333333?style=flat&logo=sap)
 
 <br/>
+<br/>
 
 <a href="https://github.com/TeodoraSumurduc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraSumurduc&theme=buefy&layout=compact" />
 </a>
 
 <br/>
-
+<br/>
+<br/>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
