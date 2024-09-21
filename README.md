@@ -22,12 +22,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL%2B%2B&logoColor=00599C)
   ![PLSQL](https://img.shields.io/badge/-PLSQL-333333?style=flat&logo=PLSQL%2B%2B&logoColor=00599C)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+  ![Linux](http://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 - 🔧 &nbsp;
   ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
